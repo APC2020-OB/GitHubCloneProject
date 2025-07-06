@@ -1,1 +1,1 @@
-Branching, merging, and resolving conflict exercise.
+Hello from feature-greeting branch
