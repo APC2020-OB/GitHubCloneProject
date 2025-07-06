@@ -1,1 +1,1 @@
-Branching, merging, and resolving conflict exercise.
+Branching, merging and resolving conflict exercise.
